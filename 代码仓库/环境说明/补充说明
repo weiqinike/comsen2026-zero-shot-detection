@@ -1,0 +1,7 @@
+环境运行补充说明：
+
+在运行GroundingDINO模型时，构造了一个虚拟环境，并将需要配置的东西下载在该虚拟环境中。
+
+启动该虚拟环境：
+
+conda activate groundingdino
