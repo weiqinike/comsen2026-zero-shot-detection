@@ -1,0 +1,366 @@
+{
+  "total_detections": 379,
+  "unknown_detections": 57,
+  "per_image_stats": [
+    {
+      "image_id": 397133,
+      "detections": 13,
+      "valid_detections": 12,
+      "unknown_detections": 1,
+      "time": 54.42815136909485
+    },
+    {
+      "image_id": 37777,
+      "detections": 5,
+      "valid_detections": 2,
+      "unknown_detections": 3,
+      "time": 51.21180009841919
+    },
+    {
+      "image_id": 252219,
+      "detections": 15,
+      "valid_detections": 10,
+      "unknown_detections": 5,
+      "time": 41.65305852890015
+    },
+    {
+      "image_id": 87038,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 37.875223875045776
+    },
+    {
+      "image_id": 174482,
+      "detections": 5,
+      "valid_detections": 5,
+      "unknown_detections": 0,
+      "time": 36.96780014038086
+    },
+    {
+      "image_id": 403385,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 23.02252721786499
+    },
+    {
+      "image_id": 6818,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 22.259400367736816
+    },
+    {
+      "image_id": 480985,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 22.791861534118652
+    },
+    {
+      "image_id": 458054,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 50.26837944984436
+    },
+    {
+      "image_id": 331352,
+      "detections": 3,
+      "valid_detections": 3,
+      "unknown_detections": 0,
+      "time": 42.313924074172974
+    },
+    {
+      "image_id": 296649,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 21.34917116165161
+    },
+    {
+      "image_id": 386912,
+      "detections": 15,
+      "valid_detections": 10,
+      "unknown_detections": 5,
+      "time": 21.261345148086548
+    },
+    {
+      "image_id": 502136,
+      "detections": 2,
+      "valid_detections": 2,
+      "unknown_detections": 0,
+      "time": 20.52075743675232
+    },
+    {
+      "image_id": 491497,
+      "detections": 7,
+      "valid_detections": 6,
+      "unknown_detections": 1,
+      "time": 20.22403645515442
+    },
+    {
+      "image_id": 184791,
+      "detections": 3,
+      "valid_detections": 3,
+      "unknown_detections": 0,
+      "time": 22.344842433929443
+    },
+    {
+      "image_id": 348881,
+      "detections": 13,
+      "valid_detections": 11,
+      "unknown_detections": 2,
+      "time": 29.230143308639526
+    },
+    {
+      "image_id": 289393,
+      "detections": 6,
+      "valid_detections": 6,
+      "unknown_detections": 0,
+      "time": 46.19919013977051
+    },
+    {
+      "image_id": 522713,
+      "detections": 3,
+      "valid_detections": 3,
+      "unknown_detections": 0,
+      "time": 45.82620072364807
+    },
+    {
+      "image_id": 181666,
+      "detections": 10,
+      "valid_detections": 9,
+      "unknown_detections": 1,
+      "time": 49.850441455841064
+    },
+    {
+      "image_id": 17627,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 43.34270167350769
+    },
+    {
+      "image_id": 143931,
+      "detections": 6,
+      "valid_detections": 6,
+      "unknown_detections": 0,
+      "time": 46.271512031555176
+    },
+    {
+      "image_id": 303818,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 34.83689785003662
+    },
+    {
+      "image_id": 463730,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 47.83399987220764
+    },
+    {
+      "image_id": 460347,
+      "detections": 11,
+      "valid_detections": 11,
+      "unknown_detections": 0,
+      "time": 50.32595443725586
+    },
+    {
+      "image_id": 322864,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 49.21138906478882
+    },
+    {
+      "image_id": 226111,
+      "detections": 5,
+      "valid_detections": 5,
+      "unknown_detections": 0,
+      "time": 45.07849073410034
+    },
+    {
+      "image_id": 153299,
+      "detections": 4,
+      "valid_detections": 4,
+      "unknown_detections": 0,
+      "time": 40.21811270713806
+    },
+    {
+      "image_id": 308394,
+      "detections": 5,
+      "valid_detections": 5,
+      "unknown_detections": 0,
+      "time": 50.10450458526611
+    },
+    {
+      "image_id": 456496,
+      "detections": 10,
+      "valid_detections": 7,
+      "unknown_detections": 3,
+      "time": 49.75767803192139
+    },
+    {
+      "image_id": 58636,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 38.17893123626709
+    },
+    {
+      "image_id": 41888,
+      "detections": 9,
+      "valid_detections": 9,
+      "unknown_detections": 0,
+      "time": 45.063438177108765
+    },
+    {
+      "image_id": 184321,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 44.578362703323364
+    },
+    {
+      "image_id": 565778,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 51.610785245895386
+    },
+    {
+      "image_id": 297343,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 46.52633309364319
+    },
+    {
+      "image_id": 336587,
+      "detections": 2,
+      "valid_detections": 2,
+      "unknown_detections": 0,
+      "time": 44.91800117492676
+    },
+    {
+      "image_id": 122745,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 45.406522274017334
+    },
+    {
+      "image_id": 219578,
+      "detections": 4,
+      "valid_detections": 4,
+      "unknown_detections": 0,
+      "time": 48.84892821311951
+    },
+    {
+      "image_id": 555705,
+      "detections": 9,
+      "valid_detections": 6,
+      "unknown_detections": 3,
+      "time": 52.07388210296631
+    },
+    {
+      "image_id": 443303,
+      "detections": 6,
+      "valid_detections": 4,
+      "unknown_detections": 2,
+      "time": 44.75241947174072
+    },
+    {
+      "image_id": 500663,
+      "detections": 5,
+      "valid_detections": 5,
+      "unknown_detections": 0,
+      "time": 36.49900197982788
+    },
+    {
+      "image_id": 418281,
+      "detections": 5,
+      "valid_detections": 5,
+      "unknown_detections": 0,
+      "time": 49.97826313972473
+    },
+    {
+      "image_id": 25560,
+      "detections": 9,
+      "valid_detections": 6,
+      "unknown_detections": 3,
+      "time": 45.248390436172485
+    },
+    {
+      "image_id": 403817,
+      "detections": 5,
+      "valid_detections": 3,
+      "unknown_detections": 2,
+      "time": 44.75907754898071
+    },
+    {
+      "image_id": 85329,
+      "detections": 4,
+      "valid_detections": 4,
+      "unknown_detections": 0,
+      "time": 47.94576597213745
+    },
+    {
+      "image_id": 329323,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 49.83362102508545
+    },
+    {
+      "image_id": 239274,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 33.667356729507446
+    },
+    {
+      "image_id": 286994,
+      "detections": 4,
+      "valid_detections": 4,
+      "unknown_detections": 0,
+      "time": 44.384517192840576
+    },
+    {
+      "image_id": 511321,
+      "detections": 3,
+      "valid_detections": 3,
+      "unknown_detections": 0,
+      "time": 49.36181449890137
+    },
+    {
+      "image_id": 314294,
+      "detections": 3,
+      "valid_detections": 3,
+      "unknown_detections": 0,
+      "time": 51.14526128768921
+    },
+    {
+      "image_id": 233771,
+      "detections": 15,
+      "valid_detections": 15,
+      "unknown_detections": 0,
+      "time": 36.607290267944336
+    }
+  ],
+  "category_stats": {
+    "car": 84,
+    "person": 212,
+    "cup": 6,
+    "unknown": 31,
+    "table": 26,
+    "cat": 13,
+    "tv": 6,
+    "chair": 1
+  }
+}

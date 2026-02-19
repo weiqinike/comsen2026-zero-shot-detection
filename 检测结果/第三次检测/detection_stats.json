@@ -1,0 +1,406 @@
+{
+  "total_detections": 202,
+  "unknown_detections": 0,
+  "per_image_stats": [
+    {
+      "image_id": 397133,
+      "detections": 5,
+      "valid_detections": 5,
+      "unknown_detections": 0,
+      "time": 48.616543769836426,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 37777,
+      "detections": 4,
+      "valid_detections": 4,
+      "unknown_detections": 0,
+      "time": 44.51757001876831,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 252219,
+      "detections": 5,
+      "valid_detections": 5,
+      "unknown_detections": 0,
+      "time": 44.66255474090576,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 87038,
+      "detections": 12,
+      "valid_detections": 12,
+      "unknown_detections": 0,
+      "time": 40.645546436309814,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 174482,
+      "detections": 4,
+      "valid_detections": 4,
+      "unknown_detections": 0,
+      "time": 48.484018325805664,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 403385,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 38.45848894119263,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 6818,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 44.52117872238159,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 480985,
+      "detections": 7,
+      "valid_detections": 7,
+      "unknown_detections": 0,
+      "time": 40.43807768821716,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 458054,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 44.8304169178009,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 331352,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 41.42913842201233,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 296649,
+      "detections": 20,
+      "valid_detections": 20,
+      "unknown_detections": 0,
+      "time": 43.27442741394043,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 386912,
+      "detections": 8,
+      "valid_detections": 8,
+      "unknown_detections": 0,
+      "time": 35.964961528778076,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 502136,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 67.60435318946838,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 491497,
+      "detections": 3,
+      "valid_detections": 3,
+      "unknown_detections": 0,
+      "time": 34.777254581451416,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 184791,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 33.561373233795166,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 348881,
+      "detections": 2,
+      "valid_detections": 2,
+      "unknown_detections": 0,
+      "time": 80.26194548606873,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 289393,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 58.56258821487427,
+      "scene": "street"
+    },
+    {
+      "image_id": 522713,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 81.8301203250885,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 181666,
+      "detections": 3,
+      "valid_detections": 3,
+      "unknown_detections": 0,
+      "time": 90.11215209960938,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 17627,
+      "detections": 13,
+      "valid_detections": 13,
+      "unknown_detections": 0,
+      "time": 81.50838470458984,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 143931,
+      "detections": 2,
+      "valid_detections": 2,
+      "unknown_detections": 0,
+      "time": 82.21992659568787,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 303818,
+      "detections": 13,
+      "valid_detections": 13,
+      "unknown_detections": 0,
+      "time": 81.34710001945496,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 463730,
+      "detections": 18,
+      "valid_detections": 18,
+      "unknown_detections": 0,
+      "time": 89.20312476158142,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 460347,
+      "detections": 5,
+      "valid_detections": 5,
+      "unknown_detections": 0,
+      "time": 71.14172267913818,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 322864,
+      "detections": 6,
+      "valid_detections": 6,
+      "unknown_detections": 0,
+      "time": 72.39309334754944,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 226111,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 82.41976499557495,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 153299,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 56.55169486999512,
+      "scene": "street"
+    },
+    {
+      "image_id": 308394,
+      "detections": 3,
+      "valid_detections": 3,
+      "unknown_detections": 0,
+      "time": 90.04793524742126,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 456496,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 98.25859332084656,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 58636,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 79.1412398815155,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 41888,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 84.86142563819885,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 184321,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 81.41996741294861,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 565778,
+      "detections": 5,
+      "valid_detections": 5,
+      "unknown_detections": 0,
+      "time": 94.22697591781616,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 297343,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 72.59687185287476,
+      "scene": "nature"
+    },
+    {
+      "image_id": 336587,
+      "detections": 2,
+      "valid_detections": 2,
+      "unknown_detections": 0,
+      "time": 82.18779802322388,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 122745,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 65.34194803237915,
+      "scene": "indoor"
+    },
+    {
+      "image_id": 219578,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 71.44655179977417,
+      "scene": "street"
+    },
+    {
+      "image_id": 555705,
+      "detections": 3,
+      "valid_detections": 3,
+      "unknown_detections": 0,
+      "time": 97.57054209709167,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 443303,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 83.48307490348816,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 500663,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 81.8854992389679,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 418281,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 92.01723861694336,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 25560,
+      "detections": 4,
+      "valid_detections": 4,
+      "unknown_detections": 0,
+      "time": 83.15364646911621,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 403817,
+      "detections": 2,
+      "valid_detections": 2,
+      "unknown_detections": 0,
+      "time": 83.30869960784912,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 85329,
+      "detections": 1,
+      "valid_detections": 1,
+      "unknown_detections": 0,
+      "time": 67.92737483978271,
+      "scene": "indoor"
+    },
+    {
+      "image_id": 329323,
+      "detections": 23,
+      "valid_detections": 23,
+      "unknown_detections": 0,
+      "time": 92.50506234169006,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 239274,
+      "detections": 12,
+      "valid_detections": 12,
+      "unknown_detections": 0,
+      "time": 71.74674677848816,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 286994,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 81.44510960578918,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 511321,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 90.77496290206909,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 314294,
+      "detections": 0,
+      "valid_detections": 0,
+      "unknown_detections": 0,
+      "time": 94.42868185043335,
+      "scene": "mixed"
+    },
+    {
+      "image_id": 233771,
+      "detections": 12,
+      "valid_detections": 12,
+      "unknown_detections": 0,
+      "time": 70.13582062721252,
+      "scene": "mixed"
+    }
+  ]
+}
