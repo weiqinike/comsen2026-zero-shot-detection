@@ -1,0 +1,54 @@
+{
+  "config": {
+    "coco_root": "C:\\Users\\24344\\GroundingDINO\\weights\\coco\\val2017\\val_images",
+    "ann_file": "C:\\Users\\24344\\GroundingDINO\\weights\\coco\\annotations\\annotations_images\\instances_val2017.json",
+    "model_config": "C:\\Users\\24344\\GroundingDINO\\groundingdino\\config\\GroundingDINO_SwinT_OGC.py",
+    "model_checkpoint": "C:\\Users\\24344\\GroundingDINO\\weights\\groundingdino_swint_ogc.pth",
+    "device": "cpu",
+    "box_threshold": 0.2,
+    "text_threshold": 0.15,
+    "nms_threshold": 0.5,
+    "apply_nms": true,
+    "text_prompt_style": "a clear photo of a {cls}",
+    "total_images": 500,
+    "max_images": 500
+  },
+  "all_classes": {
+    "AP": 0.08104719114643974,
+    "AP50": 0.08290005120278336,
+    "AP75": 0.06777849095998217,
+    "AP_s": 0.037916291629162914,
+    "AP_m": 0.07202032037720187,
+    "AP_l": 0.14314169125817422,
+    "mode": "all",
+    "num_predictions": 312,
+    "num_images": 500
+  },
+  "seen_classes": {
+    "AP": 0.09850350923951909,
+    "AP50": 0.10075544684645978,
+    "AP75": 0.08237693516674754,
+    "AP_s": 0.0454995499549955,
+    "AP_m": 0.08802483601658005,
+    "AP_l": 0.17468138594217872,
+    "mode": "seen",
+    "num_predictions": 312,
+    "num_images": 500
+  },
+  "unseen_classes": {
+    "AP": 0.17415374997831284,
+    "AP50": 0.18557802821233782,
+    "AP75": 0.12913126888302712,
+    "AP_s": 0.15575307530753074,
+    "AP_m": 0.1505446904580568,
+    "AP_l": 0.36831839222595125,
+    "mode": "unseen",
+    "num_predictions": 260,
+    "num_images": 500
+  },
+  "statistics": {
+    "total_predictions": 6681,
+    "matched_predictions": 361,
+    "visualization_count": 20
+  }
+}
