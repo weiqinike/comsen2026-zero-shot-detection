@@ -24,3 +24,11 @@ python evaluate.py                 # 评测
 2.用划分的数据集训练和评估GroundingDINO基线模型。
 
 PS.第一次检测和第四次检测未生成JSON文件检测结果
+
+任务三：提示词工程与对比实验
+
+1.选择person、car、chair三个类别；
+
+2.使用手动计算AP的方式；
+
+3.选择方向A进行改进。
