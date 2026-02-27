@@ -22,3 +22,5 @@ python evaluate.py                 # 评测
 1.选择MS COCO数据集并采用经典划分“65seen/15unseen”；
 
 2.用划分的数据集训练和评估GroundingDINO基线模型。
+
+PS.第一次检测和第四次检测未生成JSON文件检测结果
