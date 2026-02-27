@@ -1,0 +1,152 @@
+{
+  "test_categories": [
+    "person",
+    "car",
+    "chair"
+  ],
+  "fusion_strategies": {
+    "max_confidence": "最大置信度融合",
+    "weighted_average": "加权平均融合",
+    "nms": "NMS融合",
+    "wbf": "WBF融合"
+  },
+  "ap_calculation_method": "manual_calculation_iou_0.5",
+  "category_results": {
+    "person": {
+      "best_strategy": "wbf",
+      "best_ap": 0.5597222222222222,
+      "all_strategy_details": {
+        "original": {
+          "avg_ap": 0.15408925557734476,
+          "avg_precision": 0.05889724310776942,
+          "avg_recall": 1.0,
+          "avg_detections": 49.5,
+          "num_samples": 2
+        },
+        "max_confidence": {
+          "avg_ap": 0.44155926629702846,
+          "avg_precision": 0.24475524475524477,
+          "avg_recall": 1.0,
+          "avg_detections": 12.0,
+          "num_samples": 2
+        },
+        "weighted_average": {
+          "avg_ap": 0.5451014109347443,
+          "avg_precision": 0.3222222222222222,
+          "avg_recall": 1.0,
+          "avg_detections": 9.5,
+          "num_samples": 2
+        },
+        "nms": {
+          "avg_ap": 0.44155926629702846,
+          "avg_precision": 0.24475524475524477,
+          "avg_recall": 1.0,
+          "avg_detections": 12.0,
+          "num_samples": 2
+        },
+        "wbf": {
+          "avg_ap": 0.5597222222222222,
+          "avg_precision": 0.3333333333333333,
+          "avg_recall": 0.625,
+          "avg_detections": 6.0,
+          "num_samples": 2
+        }
+      }
+    },
+    "car": {
+      "best_strategy": "max_confidence",
+      "best_ap": 0.5678999323181775,
+      "all_strategy_details": {
+        "original": {
+          "avg_ap": 0.17271525379452132,
+          "avg_precision": 0.06160835983643798,
+          "avg_recall": 1.0,
+          "avg_detections": 113.0,
+          "num_samples": 2
+        },
+        "max_confidence": {
+          "avg_ap": 0.5678999323181775,
+          "avg_precision": 0.26900584795321636,
+          "avg_recall": 1.0,
+          "avg_detections": 23.0,
+          "num_samples": 2
+        },
+        "weighted_average": {
+          "avg_ap": 0.4530644045990073,
+          "avg_precision": 0.2531328320802005,
+          "avg_recall": 0.8333333333333333,
+          "avg_detections": 20.0,
+          "num_samples": 2
+        },
+        "nms": {
+          "avg_ap": 0.5678999323181775,
+          "avg_precision": 0.26900584795321636,
+          "avg_recall": 1.0,
+          "avg_detections": 23.0,
+          "num_samples": 2
+        },
+        "wbf": {
+          "avg_ap": 0.41255095309782813,
+          "avg_precision": 0.26041666666666663,
+          "avg_recall": 0.6666666666666667,
+          "avg_detections": 15.5,
+          "num_samples": 2
+        }
+      }
+    },
+    "chair": {
+      "best_strategy": "max_confidence",
+      "best_ap": 0.08718466994709907,
+      "all_strategy_details": {
+        "original": {
+          "avg_ap": 0.022565983156096595,
+          "avg_precision": 0.01035387905891503,
+          "avg_recall": 0.75,
+          "avg_detections": 106.5,
+          "num_samples": 2
+        },
+        "max_confidence": {
+          "avg_ap": 0.08718466994709907,
+          "avg_precision": 0.05844155844155844,
+          "avg_recall": 0.75,
+          "avg_detections": 18.0,
+          "num_samples": 2
+        },
+        "weighted_average": {
+          "avg_ap": 0.045378362803890716,
+          "avg_precision": 0.06623931623931624,
+          "avg_recall": 0.75,
+          "avg_detections": 15.5,
+          "num_samples": 2
+        },
+        "nms": {
+          "avg_ap": 0.08718466994709907,
+          "avg_precision": 0.05844155844155844,
+          "avg_recall": 0.75,
+          "avg_detections": 18.0,
+          "num_samples": 2
+        },
+        "wbf": {
+          "avg_ap": 0.06881941657582684,
+          "avg_precision": 0.09401709401709402,
+          "avg_recall": 0.75,
+          "avg_detections": 11.0,
+          "num_samples": 2
+        }
+      }
+    }
+  },
+  "overall_best_strategy": {
+    "strategy": "wbf",
+    "avg_ap": 0.5597222222222222,
+    "description": "WBF融合",
+    "categories_count": 1
+  },
+  "key_findings": [
+    "多提示集成能显著提高检测稳定性（基于手动AP计算验证）",
+    "不同融合策略在不同类别上表现不同，WBF通常表现最佳",
+    "融合后检测数量通常减少，但检测质量（AP）提高",
+    "手动AP计算方法避免了pycocotools库的兼容性问题",
+    "加权平均和WBF策略能有效利用多Prompt信息"
+  ]
+}

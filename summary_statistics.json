@@ -1,0 +1,50 @@
+{
+  "test_categories": [
+    "person",
+    "car",
+    "chair"
+  ],
+  "overall_results": {
+    "person": {
+      "average_ap": 0.6371635286994233,
+      "max_ap": 0.8333333333333333,
+      "min_ap": 0.4068960748696657,
+      "num_prompts": 5
+    },
+    "car": {
+      "average_ap": 0.6489955965635025,
+      "max_ap": 0.737402661441123,
+      "min_ap": 0.5450142812326385,
+      "num_prompts": 5
+    },
+    "chair": {
+      "average_ap": 0.2696484409465435,
+      "max_ap": 0.3233571983571984,
+      "min_ap": 0.10916014960474074,
+      "num_prompts": 5
+    }
+  },
+  "best_prompts": {
+    "person": {
+      "prompt_name": "detailed",
+      "prompt_text": "a human person",
+      "ap_score": 0.8333333333333333
+    },
+    "car": {
+      "prompt_name": "action",
+      "prompt_text": "a parked car",
+      "ap_score": 0.737402661441123
+    },
+    "chair": {
+      "prompt_name": "template",
+      "prompt_text": "a photo of a chair",
+      "ap_score": 0.3233571983571984
+    }
+  },
+  "key_insights": [
+    "Prompt工程对zero-shot检测性能有显著影响",
+    "包含上下文的Prompt通常优于纯类名",
+    "检测质量比检测数量更重要",
+    "不同类别可能需要不同的最优Prompt策略"
+  ]
+}
