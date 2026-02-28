@@ -32,6 +32,7 @@ python evaluate.py                 # 评测
 2.用划分的数据集训练和评估GroundingDINO基线模型。
 
 seen和unseen类别说明
+
 seen_classes = [
             'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train',
             'truck', 'boat', 'traffic light', 'fire hydrant', 'stop sign',
