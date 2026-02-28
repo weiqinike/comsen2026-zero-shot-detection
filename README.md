@@ -31,6 +31,27 @@ python evaluate.py                 # 评测
 
 2.用划分的数据集训练和评估GroundingDINO基线模型。
 
+seen和unseen类别说明
+seen_classes = [
+            'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train',
+            'truck', 'boat', 'traffic light', 'fire hydrant', 'stop sign',
+            'parking meter', 'bench', 'bird', 'cat', 'dog', 'horse', 'sheep',
+            'cow', 'elephant', 'bear', 'zebra', 'giraffe', 'backpack', 'umbrella',
+            'handbag', 'tie', 'suitcase', 'frisbee', 'skis', 'snowboard',
+            'sports ball', 'kite', 'baseball bat', 'baseball glove', 'skateboard',
+            'surfboard', 'tennis racket', 'bottle', 'wine glass', 'cup', 'fork',
+            'knife', 'spoon', 'bowl', 'banana', 'apple', 'sandwich', 'orange',
+            'broccoli', 'carrot', 'hot dog', 'pizza', 'donut', 'cake', 'chair',
+            'couch', 'potted plant', 'bed', 'dining table', 'toilet', 'tv',
+            'laptop','teddy bear'
+        ]
+
+unseen_classes = [
+            'toaster', 'hair drier', 'mouse', 'microwave', 'scissors',
+            'oven', 'clock', 'book', 'refrigerator', 'toothbrush',
+            'vase', 'remote', 'keyboard', 'cell phone', 'sink'
+        ]
+
 PS.第一次检测和第四次检测未生成JSON文件检测结果
 
 任务三：提示词工程与对比实验
