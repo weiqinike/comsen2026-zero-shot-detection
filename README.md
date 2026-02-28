@@ -7,6 +7,14 @@
 
 3.用coco/val2017和coco/annotations数据集进行整体模型的评估。
 
+环境运行补充说明：
+
+在运行GroundingDINO模型时，构造了一个虚拟环境，并将需要配置的东西下载在该虚拟环境中。
+
+启动该虚拟环境：
+
+conda activate groundingdino
+
 推理与评测一键运行说明：
 
 python run_detection_final.py      # 推理检测
